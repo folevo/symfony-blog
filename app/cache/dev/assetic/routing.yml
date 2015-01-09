@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'D:/EasyPHP-DevServer-14.1VC9/data/localweb/blog.loc/app/config/routing_dev.yml'
